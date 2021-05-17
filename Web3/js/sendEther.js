@@ -1,6 +1,7 @@
 //useful links
 //https://solidity-by-example.org/sending-ether/
 //https://solidity-by-example.org/fallback/
+//https://web3js.readthedocs.io/en/v1.2.0/web3-eth.html#sendtransaction
 
 //import the web3 library
 const Web3 = require('web3');
