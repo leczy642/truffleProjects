@@ -1,4 +1,7 @@
-// SPDX-License-Identifier: MIT 
+// SPDX-License-Identifier: MIT
+//usefull links 
+//https://www.tutorialspoint.com/solidity/solidity_structs.htm
+//https://jeancvllr.medium.com/solidity-tutorial-all-about-structs-b3e7ca398b1e
 
 pragma solidity ^0.6.0;
 
