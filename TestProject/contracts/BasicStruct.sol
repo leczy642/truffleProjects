@@ -13,9 +13,7 @@ contract StudentInformation{
     
     Student s;
     
-    //declare a mapping
-    mapping(uint => Student) studentInfo;
-    
+    /**/  
     function addStudent(string memory _name, uint _matNo, string memory _program) public {
         s.name = _name;
         s.matricNumber = _matNo;
