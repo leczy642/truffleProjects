@@ -26,7 +26,7 @@ contract StudentInformation{
         s.program = _program;
     }
     /*
-    second mmethod
+    second mmethod -> readable/shorter way
     adding a student into a struct by using the Struct object
     s = Student(_name, _matNo, _program);
     add the _name, _matNo, and _program into the struct
