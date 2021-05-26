@@ -1,4 +1,13 @@
 // SPDX-License-Identifier: MIT 
+//usefull links 
+//https://www.youtube.com/watch?v=BduMOagAuKs&t=21s
+//https://www.youtube.com/watch?v=jaMHPT-78HM
+//https://www.youtube.com/watch?v=L5Au5DY8eL4
+//https://www.youtube.com/watch?v=CX2QOE0FcEo&t=46s
+//https://www.youtube.com/watch?v=oQ5yPKdjxFQ
+//https://www.youtube.com/watch?v=HGw-yalqdgs
+//https://bit.ly/3hV8wAa
+//https://betterprogramming.pub/learn-solidity-events-2801d6a99a92
 
 pragma solidity ^0.6.0;
 
