@@ -16,6 +16,9 @@ contract StudentInformation{
         string program;
     }
     
+    //create an AddStudent event
+    event AddStudent(address studentAddress, string name, uint matricNumber, string program);
+    
     //instantiating a struct
     Student public s;
     
@@ -39,6 +42,9 @@ contract StudentInformation{
         studentInfo[_stuAddress].program = _program;
         
         studentAccounts.push(_stuAddress);
+        
+        //emit the AddStudent event
+        emit AddStudent(msg.sender, _name, _matricNumber, _program);
         
      }
      
